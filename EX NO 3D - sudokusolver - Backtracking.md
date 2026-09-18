@@ -1,6 +1,6 @@
 
 # EX 3D Sudoku solver - Backtracking.
-## DATE : 14-09-2026
+## DATE: 01-08-2026
 ## AIM:
 To write a Java program to solve a Sudoku puzzle by filling the empty cells.
 
